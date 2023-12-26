@@ -9,5 +9,4 @@ class BssmPortfolio2023ApplicationTests {
     @Test
     fun contextLoads() {
     }
-
 }
